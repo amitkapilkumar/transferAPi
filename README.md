@@ -1,7 +1,7 @@
 # transferAPI
 
-# com.server.server class is a standlaone Main class. To start the server.
-# Following REST endpoints are:
+## com.server.server class is a standlaone Main class. To start the server.
+## Following REST endpoints are:
 - /account/transfer     POST
   {
     toAccountNo : "5634897",
